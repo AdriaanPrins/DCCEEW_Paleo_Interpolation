@@ -1,0 +1,11 @@
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes 
+pykrige
+pyinterpolate
+pygam
+scikit-learn
+pandas
+geopandas
+numpy
+rasterio
